@@ -9,3 +9,4 @@
 [![Minitab](https://img.shields.io/badge/Minitab-005A9C?style=flat-square&logo=minitab&logoColor=white)](https://www.minitab.com/en-us/)
 <!--
 **noorfajar/noorfajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+...
